@@ -1,0 +1,17 @@
+{
+  "name": "supreme-barnacle",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "code sleep",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.3"
+  }
+}
